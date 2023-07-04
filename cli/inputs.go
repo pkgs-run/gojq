@@ -10,7 +10,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/itchyny/gojq"
+	"github.com/pkgs-run/gojq"
 )
 
 type inputReader struct {
